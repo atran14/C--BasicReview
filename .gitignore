@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,dotnetcore,windows
+
+# More files to ignore
+C#-BasicReview.csproj
+.vscode/launch.json
+.vscode/tasks.json
