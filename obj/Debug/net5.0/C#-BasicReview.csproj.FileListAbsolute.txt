@@ -1,0 +1,16 @@
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\bin\Debug\net5.0\C#-BasicReview.exe
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\bin\Debug\net5.0\C#-BasicReview.deps.json
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\bin\Debug\net5.0\C#-BasicReview.runtimeconfig.json
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\bin\Debug\net5.0\C#-BasicReview.runtimeconfig.dev.json
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\bin\Debug\net5.0\C#-BasicReview.dll
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\bin\Debug\net5.0\ref\C#-BasicReview.dll
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\bin\Debug\net5.0\C#-BasicReview.pdb
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\C#-BasicReview.csprojAssemblyReference.cache
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\C#-BasicReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\C#-BasicReview.AssemblyInfoInputs.cache
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\C#-BasicReview.AssemblyInfo.cs
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\C#-BasicReview.csproj.CoreCompileInputs.cache
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\C#-BasicReview.dll
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\ref\C#-BasicReview.dll
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\C#-BasicReview.pdb
+C:\Users\DucAnhPC\Documents\Code Sandbox\learning-spaces\C#-BasicReview\obj\Debug\net5.0\C#-BasicReview.genruntimeconfig.cache
