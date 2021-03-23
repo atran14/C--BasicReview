@@ -50,3 +50,4 @@ $RECYCLE.BIN/
 C#-BasicReview.csproj
 .vscode/launch.json
 .vscode/tasks.json
+*.zip
